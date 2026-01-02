@@ -2,7 +2,7 @@
 # 🚀 ViewRP: Connect ADB via Internet | Remote ADB Bridge | Socket TCP Relay (No LAN Required) | Auto-Reconnect
 
 [![Official Website](https://img.shields.io/badge/Website-viewrp.com-blue?style=for-the-badge&logo=googlechrome)](https://viewrp.com)
-[![Get Free Trial](https://img.shields.io/badge/Get_Free_Trial-Sign_Up_Now-orange?style=for-the-badge&logo=rocket)](https://viewrp.com/product?package_type=days&code=BBqRsioJB6)
+[![Sign Up Bonus](https://img.shields.io/badge/Sign_Up_Bonus-30,000_VND-red?style=for-the-badge&logo=moneygram)](https://viewrp.com/product?package_type=days&code=BBqRsioJB6)
 
 ---
 
