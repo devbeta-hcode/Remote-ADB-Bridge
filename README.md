@@ -30,7 +30,7 @@ If you are asking: *"How can I connect ADB via Internet without a Local Network?
 
 ---
 
-## 🇻🇳 ViewRP: Giải pháp Kết nối ADB qua Internet Xuyên Biên Giới
+## ViewRP: Giải pháp Kết nối ADB qua Internet Xuyên Biên Giới
 
 Bạn đang tìm cách **Connect ADB via Internet** để quản lý Phone Farm hoặc hỗ trợ khách hàng từ xa? ViewRP là giải pháp thương mại duy nhất tại Việt Nam tối ưu hóa việc điều khiển Android qua môi trường WAN (Internet).
 
@@ -73,8 +73,8 @@ Google users often find ViewRP when searching for these common ADB issues:
 
 ## 🚀 Get Started in 3 Steps
 1. **Sign Up:** Create an account at [viewrp.com](https://viewrp.com).
-2. **Setup:** Install ViewRP Client and get your **Access Key**.
-3. **Connect:** Use our Web Dashboard to **Connect ADB via Internet** instantly.
+2. **Setup:** Install `ViewRP ADB Support` and get your **Access Key**.
+3. **Connect:** Use our `ViewRP ADB Control` to **Connect ADB via Internet** instantly.
 
 ---
 
