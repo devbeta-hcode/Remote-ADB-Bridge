@@ -18,6 +18,7 @@ If you are asking: *"How can I connect ADB via Internet without a Local Network?
 ### 🌟 Top Solutions we provide:
 * **Connect ADB via Internet (WAN):** Access any Android device globally without being on the same Wi-Fi.
 * **Remote ADB without VPN:** No need for complex VPN setups or OpenVPN/WireGuard tunnels.
+* **Bypass Proxy/VPN:** Unaffected by any proxy or VPN running on your phone. Completely eliminates network conflicts.
 * **Bypass NAT & CGNAT:** Works even if your devices are behind a strict router or mobile 4G/5G network.
 * **ADB Auto-Reconnect:** Our "Heartbeat" technology ensures your connection never dies. If it drops, it auto-heals in 1 second.
 
@@ -30,6 +31,7 @@ Bạn đang tìm cách **Connect ADB via Internet** để quản lý Phone Farm 
 ### 💎 Từ khóa & Tính năng cốt lõi:
 * **Connect ADB via Internet:** Kết nối và ra lệnh ADB cho điện thoại ở bất cứ đâu có mạng.
 * **Socket TCP Relay:** Công nghệ chuyển tiếp dữ liệu siêu tốc, giảm tối đa độ trễ (Latency).
+* **Bypass Proxy/VPN:** Không bị ảnh hưởng bởi Proxy hay VPN đang chạy trên điện thoại. Loại bỏ hoàn toàn xung đột mạng.
 * **Remote ADB Bridge:** Cầu nối trung gian giúp biến mọi thiết bị Android thành Cloud Phone.
 * **Phone Farm Automation:** Giải pháp "vàng" cho việc nuôi nick, cày game, chạy kịch bản tự động hóa số lượng lớn.
 * **Pháp lý đầy đủ:** Sản phẩm từ **Công ty Cổ phần DEV BETA**, bảo mật tuyệt đối dữ liệu người dùng.
@@ -50,14 +52,18 @@ Google users often find ViewRP when searching for these common ADB issues:
 
 ## 📊 Why ViewRP is the #1 Choice?
 
-| Feature / Comparison | Default ADB Connect | **ViewRP (Connect ADB via Internet)** |
+| Feature / Tính năng | Default ADB Connect | **ViewRP (Connect ADB via Internet)** |
 | :--- | :--- | :--- |
 | **Network Range** | Local LAN / Same Wi-Fi | **Anywhere (Global Internet)** |
-| **Setup Difficulty** | High (VPN/Static IP) | **Zero (Plug & Play)** |
-| **Re-connection** | Manual & Unstable | **1s Auto-Healing** |
+| **Phone Internet** | **Required** (Cần có mạng) | **NOT Required (Không cần mạng)** |
+| **Proxy/VPN Impact** | Easy to Block/Conflict | **Bypass 100% (Không bị ảnh hưởng)** |
+| **Sign-up Gift** | None | **30,000 VND Instant Bonus** |
+| **Re-connection** | Manual & Unstable | **1s Auto-Healing (Tự phục hồi)** |
+| **Setup Difficulty** | High (VPN/Static IP) | **Zero (Plug & Play - Cắm là chạy)** |
 | **Scalability** | Hard to manage 10+ devices | **Easily manage 1000+ devices** |
 
 ---
+
 
 ## 🚀 Get Started in 3 Steps
 1. **Sign Up:** Create an account at [viewrp.com](https://viewrp.com).
@@ -66,21 +72,14 @@ Google users often find ViewRP when searching for these common ADB issues:
 
 ---
 
-## 🏢 Corporate Identity
-**DEV BETA JOINT STOCK COMPANY**
-*Address: Lao Cai, Vietnam.*
-*We provide Enterprise-grade infrastructure for Android Remote Control and Automation.*
-
----
-**SEO Keywords:** *Connect ADB via Internet, Remote ADB, ADB over WAN, Remote ADB Bridge, Access ADB remotely, How to connect ADB from different network, Socket TCP ADB, ViewRP ADB, Phone Farm Tool.*
-
----
-
 ## 📞 Support / Liên hệ hỗ trợ
 * **Company:** DEV BETA JOINT STOCK COMPANY
 * **Email:** h.devbeta@gmail.com
 * **Website:** [viewrp.com](https://viewrp.com)
 * **Address:** Lao Cai Province, Vietnam.
+*We provide Enterprise-grade infrastructure for Android Remote Control and Automation.*
 
 ---
+**SEO Keywords:** *Connect ADB via Internet, Remote ADB, ADB over WAN, Remote ADB Bridge, Access ADB remotely, How to connect ADB from different network, Socket TCP ADB, ViewRP ADB, Phone Farm Tool.*
+
 *If you find this project helpful, please give us a ⭐ Star to support the developers!*
